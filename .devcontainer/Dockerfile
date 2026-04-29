@@ -8,4 +8,4 @@ RUN apt-get update && apt-get install -y \
     && rm -rf /var/lib/apt/lists/*
 USER ${NB_UID}
 
-RUN pip install --no-cache-dir graphviz
+RUN pip install --no-cache-dir graphviz mglearn
