@@ -31,6 +31,16 @@
 > 出典を記載する場合の帰属表記例:
 > 『An Introduction to Machine Learning with Python』 Andreas C. Müller、Sarah Guido 著、O'Reilly、Copyright 2017 Sarah Guido and Andreas Müller、978-1-449-36941-5、邦題『Pythonではじめる機械学習』オライリー・ジャパン、ISBN978-4-87311-798-0
 
+## フォルダ構成
+
+各章のフォルダは以下の構成になっています。
+
+```
+XX_章名/
+├── README.md   # 学習メモ
+└── src/        # 実装コード（Pythonファイル・Jupyter Notebookなど）
+```
+
 ## 目次
 
 1. [はじめに](01_はじめに/)
