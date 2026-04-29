@@ -1,14 +1,14 @@
-# Getting Started with Machine Learning in Python
+# Pythonではじめる機械学習
 
 「Pythonではじめる機械学習」の学習記録フォルダ
 
-## 目次 / Contents
+## 目次
 
-1. はじめに / Introduction
-2. 教師あり学習 / Supervised Learning
-3. 教師なし学習と前処理 / Unsupervised Learning and Preprocessing
-4. データの表現と特徴量エンジニアリング / Representing Data and Engineering Features
-5. モデルの評価と改善 / Model Evaluation and Improvement
-6. アルゴリズムチェーンとパイプライン / Algorithm Chains and Pipelines
-7. テキストデータの処理 / Working with Text Data
-8. まとめ / Wrapping Up
+1. [はじめに](01_はじめに/)
+2. [教師あり学習](02_教師あり学習/)
+3. [教師なし学習と前処理](03_教師なし学習と前処理/)
+4. [データの表現と特徴量エンジニアリング](04_データの表現と特徴量エンジニアリング/)
+5. [モデルの評価と改善](05_モデルの評価と改善/)
+6. [アルゴリズムチェーンとパイプライン](06_アルゴリズムチェーンとパイプライン/)
+7. [テキストデータの処理](07_テキストデータの処理/)
+8. [まとめ](08_まとめ/)
